@@ -1,8 +1,9 @@
-# Simple-Software-Selling-Website
+<h1 align="center">Simple-Software-Selling-Website</h1>
 
-A simple website for selling.
-Feel free to use it.
-Also compatible with mobile size too.
+<h3 align="center">A simple website for selling.</h3>
+
+<p>Feel free to use it.</p>
+<p>Also compatible with mobile size too.</p>
 
 ![image](https://user-images.githubusercontent.com/80823233/161401813-7c082b85-64c6-4f8d-962d-6751c37f9689.png)
 
